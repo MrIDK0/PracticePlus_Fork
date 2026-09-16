@@ -2,6 +2,8 @@
 	"geode": "3.3.0",
 	"gd": {
 		"win": "2.206"
+		"android": "2.2081",
+		"mac": "2.2081"
 	},
 	"version": "v0.0.1",
 	"id": "sabe.practiceplus",
